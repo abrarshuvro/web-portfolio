@@ -73,3 +73,12 @@ footer p{
  text-align: center;
  font-size: 12px;
 }
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(blue, cyan);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
